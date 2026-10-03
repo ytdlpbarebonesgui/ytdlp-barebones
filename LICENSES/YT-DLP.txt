@@ -1,0 +1,9 @@
+yt-dlp
+https://github.com/yt-dlp/yt-dlp
+
+yt-dlp is licensed under the GNU General Public License v3.0.
+Full license text: https://www.gnu.org/licenses/gpl-3.0.html
+
+This application does not distribute yt-dlp. It may download yt-dlp.exe
+at runtime from the official repository. Users are subject to the terms
+of the GNU GPL v3 when using yt-dlp.

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frmConfigManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEditFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDownloadSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSaveConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmEditExec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classes\Display\ToastNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="frmConfigManager.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="frmEditFile.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="frmMain.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
