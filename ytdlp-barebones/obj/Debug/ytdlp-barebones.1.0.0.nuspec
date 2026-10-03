@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ytdlp-barebones</id>
+    <version>1.0.0</version>
+    <authors>ytdlp-barebones</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="4361b59bffb301e8d56943a4db011551cccc5e50" />
+    <dependencies>
+      <group targetFramework="net9.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net9.0-windows7.0/yt-dlp barebones app icon v2.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\JUSTINE\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Debug\net9.0-windows\ytdlp-barebones.runtimeconfig.json" target="lib\net9.0-windows7.0\ytdlp-barebones.runtimeconfig.json" />
+    <file src="D:\JUSTINE\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Debug\net9.0-windows\ytdlp-barebones.dll" target="lib\net9.0-windows7.0\ytdlp-barebones.dll" />
+    <file src="D:\JUSTINE\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\yt-dlp barebones app icon v2.ico" target="content\yt-dlp barebones app icon v2.ico" />
+    <file src="D:\JUSTINE\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\yt-dlp barebones app icon v2.ico" target="contentFiles\any\net9.0-windows7.0\yt-dlp barebones app icon v2.ico" />
+  </files>
+</package>
