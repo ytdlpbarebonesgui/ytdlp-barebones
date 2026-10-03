@@ -1,0 +1,584 @@
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.exe
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.dll.config
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.deps.json
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.runtimeconfig.json
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.pdb
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.CSharp.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.Registry.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.AppContext.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Buffers.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.Concurrent.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.Immutable.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.NonGeneric.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.Specialized.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.Annotations.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Configuration.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Console.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Core.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Data.Common.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Data.DataSetExtensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Data.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Contracts.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Debug.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Process.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Tools.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Tracing.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Dynamic.Runtime.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Formats.Asn1.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Formats.Tar.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Globalization.Calendars.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Globalization.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Globalization.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.Brotli.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.IsolatedStorage.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Pipelines.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Pipes.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.AsyncEnumerable.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.Expressions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.Parallel.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.Queryable.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Memory.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Http.Json.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Http.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.HttpListener.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Mail.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.NameResolution.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.NetworkInformation.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Ping.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Quic.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Requests.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Security.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.ServerSentEvents.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.ServicePoint.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Sockets.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebClient.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebProxy.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebSockets.Client.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebSockets.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Numerics.Vectors.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Numerics.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ObjectModel.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.CoreLib.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.DataContractSerialization.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Uri.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Xml.Linq.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Xml.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Emit.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Metadata.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.Reader.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.ResourceManager.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.Writer.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Handles.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.InteropServices.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Intrinsics.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Loader.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Numerics.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.AccessControl.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Claims.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Principal.Windows.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Principal.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.SecureString.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ServiceModel.Web.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ServiceProcess.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encoding.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encodings.Web.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Json.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.RegularExpressions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.AccessControl.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Channels.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Overlapped.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Thread.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.ThreadPool.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Timer.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Transactions.Local.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Transactions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ValueTuple.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Web.HttpUtility.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Web.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.Linq.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.ReaderWriter.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.Serialization.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XDocument.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XPath.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XmlDocument.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XmlSerializer.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\WindowsBase.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscorlib.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\netstandard.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Accessibility.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.VisualBasic.Forms.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.VisualBasic.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.CodeDom.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Design.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.EventLog.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.DirectoryServices.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.Common.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.Design.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Formats.Nrbf.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Packaging.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Windows.Core.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Windows.GdiPlus.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Permissions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Extensions.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.Design.Editors.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.Design.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.Primitives.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.Native.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clretwrc.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clrgc.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clrgcexp.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clrjit.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\coreclr.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\createdump.exe
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\hostfxr.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\hostpolicy.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscordaccore.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscordaccore_amd64_amd64_10.0.426.12010.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscordbi.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscorrc.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\msquic.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.Helpers.Display.ToastNotification.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmConfigManager.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmDownloadSection.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmEditExec.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmEditFile.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmMain.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmSaveConfig.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmSettings.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.Properties.Resources.resources
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.csproj.GenerateResource.cache
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.AssemblyInfoInputs.cache
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.AssemblyInfo.cs
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.csproj.CoreCompileInputs.cache
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-ba.7F73C10E.Up2Date
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\refint\ytdlp-barebones.dll
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.pdb
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.genruntimeconfig.cache
+D:\Justine\OneDrive\visualstudio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ref\ytdlp-barebones.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.exe
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.dll.config
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.deps.json
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.runtimeconfig.json
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.pdb
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.CSharp.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.VisualBasic.Core.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.Registry.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.AppContext.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Buffers.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.Concurrent.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.Immutable.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.NonGeneric.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.Specialized.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Collections.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.Annotations.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.DataAnnotations.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.TypeConverter.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ComponentModel.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Configuration.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Console.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Core.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Data.Common.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Data.DataSetExtensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Data.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Contracts.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Debug.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Process.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.StackTrace.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Tools.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.TraceSource.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.Tracing.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Dynamic.Runtime.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Formats.Asn1.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Formats.Tar.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Globalization.Calendars.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Globalization.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Globalization.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.Brotli.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.FileSystem.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.ZipFile.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.AccessControl.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.Watcher.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.FileSystem.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.IsolatedStorage.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.MemoryMappedFiles.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Pipelines.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Pipes.AccessControl.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Pipes.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.AsyncEnumerable.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.Expressions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.Parallel.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.Queryable.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Linq.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Memory.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Http.Json.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Http.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.HttpListener.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Mail.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.NameResolution.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.NetworkInformation.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Ping.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Quic.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Requests.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Security.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.ServerSentEvents.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.ServicePoint.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.Sockets.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebClient.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebHeaderCollection.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebProxy.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebSockets.Client.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.WebSockets.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Net.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Numerics.Vectors.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Numerics.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ObjectModel.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.CoreLib.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.DataContractSerialization.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Uri.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Xml.Linq.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Xml.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.DispatchProxy.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Emit.Lightweight.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Emit.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Metadata.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.TypeExtensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Reflection.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.Reader.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.ResourceManager.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.Writer.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Handles.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.InteropServices.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Intrinsics.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Loader.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Numerics.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Formatters.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Json.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.Xml.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.Serialization.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Runtime.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.AccessControl.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Claims.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Algorithms.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Cng.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Csp.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Encoding.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Principal.Windows.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Principal.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.SecureString.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ServiceModel.Web.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ServiceProcess.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encoding.CodePages.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encoding.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encoding.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Encodings.Web.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.Json.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Text.RegularExpressions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.AccessControl.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Channels.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Overlapped.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.Dataflow.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.Parallel.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Tasks.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Thread.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.ThreadPool.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.Timer.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Threading.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Transactions.Local.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Transactions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.ValueTuple.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Web.HttpUtility.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Web.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.Linq.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.ReaderWriter.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.Serialization.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XDocument.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XPath.XDocument.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XPath.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XmlDocument.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.XmlSerializer.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Xml.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\WindowsBase.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscorlib.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\netstandard.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Accessibility.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.VisualBasic.Forms.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.VisualBasic.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.Registry.AccessControl.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.Win32.SystemEvents.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.CodeDom.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Configuration.ConfigurationManager.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Design.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.EventLog.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.DirectoryServices.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.Common.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.Design.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Drawing.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Formats.Nrbf.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Packaging.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Windows.Core.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Private.Windows.GdiPlus.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Resources.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Pkcs.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Cryptography.Xml.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Security.Permissions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Extensions.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.Design.Editors.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.Design.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.Primitives.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.Windows.Forms.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\System.IO.Compression.Native.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clretwrc.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clrgc.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clrgcexp.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\clrjit.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\coreclr.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\createdump.exe
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\hostfxr.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\hostpolicy.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscordaccore.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscordaccore_amd64_amd64_10.0.1226.42308.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscordbi.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\mscorrc.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\msquic.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\cs\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\de\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\es\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\fr\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\it\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ja\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ko\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pl\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\pt-BR\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\ru\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\tr\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hans\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\Microsoft.VisualBasic.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\System.Windows.Forms.Design.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\System.Windows.Forms.Primitives.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\bin\Release\net10.0-windows7.0\win-x64\zh-Hant\System.Windows.Forms.resources.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.Helpers.Display.ToastNotification.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmConfigManager.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmDownloadSection.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmEditExec.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmEditFile.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmMain.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmSaveConfig.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.frmSettings.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp_barebones.Properties.Resources.resources
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.csproj.GenerateResource.cache
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.AssemblyInfoInputs.cache
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.AssemblyInfo.cs
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.csproj.CoreCompileInputs.cache
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-ba.7F73C10E.Up2Date
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\refint\ytdlp-barebones.dll
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.pdb
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ytdlp-barebones.genruntimeconfig.cache
+D:\Justine\Visual Studio\ytdlp-barebones\ytdlp-barebones\obj\Release\net10.0-windows7.0\win-x64\ref\ytdlp-barebones.dll

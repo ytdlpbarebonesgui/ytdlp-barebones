@@ -1,0 +1,3 @@
+D:\Downloads\ytdlp-barebones.pdb
+D:\Downloads\ytdlp-barebones.dll.config
+D:\Downloads\ytdlp-barebones.exe
